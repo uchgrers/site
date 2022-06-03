@@ -1,3 +1,7 @@
 .test-text {
     border: red solid;
 }
+
+.another-text {
+    border: green solid;
+}
